@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: sso
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: guguci
+Implementation-Vendor-Id: com.sso.czq
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_212
+Main-Class: ${start-class}
+
