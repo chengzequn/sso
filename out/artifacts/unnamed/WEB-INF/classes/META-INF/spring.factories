@@ -1,4 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.czq.SpringConfig,\
-  com.czq.RememberMeConfiguration,\
-  com.czq.CaptchaWebflowConfiguration,\
-  com.czq.DataSourceConfig
